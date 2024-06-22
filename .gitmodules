@@ -1,0 +1,3 @@
+[submodule "no_std-training"]
+	path = no_std-training
+	url = https://github.com/esp-rs/no_std-training.git
